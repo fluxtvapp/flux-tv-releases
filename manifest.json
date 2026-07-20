@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.30/flux-1.30.apk",
-  "sha256": "4c640deafc49d04d8a31f8d75606874ce145c80574b587037f342ed13854d0fa",
-  "changelog": "Единая кнопка «Назад», восстановление фокуса, ссылка на Telegram-группу.",
+  "versionCode": 20,
+  "versionName": "1.31",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.31/flux-1.31.apk",
+  "sha256": "8dbe92ae9215223c537a2a3663845a55beed7f83a7ac83b8073ee11b7e8ddb2e",
+  "changelog": "1.31: самообновление, обход блокировок TMDB (DoH), скрытие фильмов в прокате, широкие карточки на главной Android TV, каналы «Избранное»/«История», улучшения навигации.",
   "minSupported": 1
 }
