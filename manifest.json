@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.31",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.31/flux-1.31.apk",
-  "sha256": "8dbe92ae9215223c537a2a3663845a55beed7f83a7ac83b8073ee11b7e8ddb2e",
-  "changelog": "1.31: самообновление, обход блокировок TMDB (DoH), скрытие фильмов в прокате, широкие карточки на главной Android TV, каналы «Избранное»/«История», улучшения навигации.",
+  "versionCode": 21,
+  "versionName": "1.32",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.32/flux-1.32.apk",
+  "sha256": "b4335a4fd1e861b9fc76c8b035af98626094a780d46b9594e7ff4855c0acbc40",
+  "changelog": "1.32: «Пропустить заставку/рекап» и авто-переход к следующей серии; переработка Главной, Фильмов и Сериалов — единый порядок рядов, «Мой список» широкими карточками, ряд «Скоро» с ожидаемыми премьерами, подборки «Лучшее…» без повторов; плавная первая загрузка; единый стиль значков на постерах; правки навигации.",
   "minSupported": 1
 }
