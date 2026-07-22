@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.32",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.32/flux-1.32.apk",
-  "sha256": "b4335a4fd1e861b9fc76c8b035af98626094a780d46b9594e7ff4855c0acbc40",
-  "changelog": "1.32: «Пропустить заставку/рекап» и авто-переход к следующей серии; переработка Главной, Фильмов и Сериалов — единый порядок рядов, «Мой список» широкими карточками, ряд «Скоро» с ожидаемыми премьерами, подборки «Лучшее…» без повторов; плавная первая загрузка; единый стиль значков на постерах; правки навигации.",
+  "versionCode": 22,
+  "versionName": "1.33",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.33/flux-1.33.apk",
+  "sha256": "1a70c4bf6845789926588b0b5d7222e59eb28fecc206e698df0c3eb1c3558bb4",
+  "changelog": "What's new in 1.33:\n• Search by actor or director — open their filmography\n• New \"Connection\" settings: switch catalog or images to an alternative source if the default won't load (bypass possible blocks)\n• Loading skeletons instead of spinners — smoother first load\n• Fixes: \"My List\" no longer flickers; watched ✓ and \"Series\" badges now show on similar / collection / filmography grids",
   "minSupported": 1
 }
