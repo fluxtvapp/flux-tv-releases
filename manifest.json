@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.33",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.33/flux-1.33.apk",
-  "sha256": "1a70c4bf6845789926588b0b5d7222e59eb28fecc206e698df0c3eb1c3558bb4",
-  "changelog": "What's new in 1.33:\n• Search by actor or director — open their filmography\n• New \"Connection\" settings: switch catalog or images to an alternative source if the default won't load (bypass possible blocks)\n• Loading skeletons instead of spinners — smoother first load\n• Fixes: \"My List\" no longer flickers; watched ✓ and \"Series\" badges now show on similar / collection / filmography grids",
+  "versionCode": 23,
+  "versionName": "1.34",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/v1.34/flux-1.34.apk",
+  "sha256": "ace013b02ab8ca07c31abcee4766e7ec4a39d67a34a4f0024ccd79491986735d",
+  "changelog": "Several stability and functionality fixes",
   "minSupported": 1
 }
