@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.34",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.34/flux-1.34.apk",
-  "sha256": "ace013b02ab8ca07c31abcee4766e7ec4a39d67a34a4f0024ccd79491986735d",
-  "changelog": "Several stability and functionality fixes",
+  "versionCode": 24,
+  "versionName": "1.35",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.35/flux-1.35.apk",
+  "sha256": "303b17eab9fa5f7b1ac25691c5c4e96f5871777b20d8759bf3789c1f350cdadf",
+  "changelog": "• Software audio decoder (FFmpeg): AC3/E-AC3/DTS/TrueHD sound on boxes without hardware support\n• Managing IPTV playlists as sources + a separate EPG for each\n• Redesigned Settings: section cards and large TV-friendly text",
   "minSupported": 1
 }
