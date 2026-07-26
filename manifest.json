@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.35",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.35/flux-1.35.apk",
-  "sha256": "303b17eab9fa5f7b1ac25691c5c4e96f5871777b20d8759bf3789c1f350cdadf",
-  "changelog": "• Software audio decoder (FFmpeg): AC3/E-AC3/DTS/TrueHD sound on boxes without hardware support\n• Managing IPTV playlists as sources + a separate EPG for each\n• Redesigned Settings: section cards and large TV-friendly text",
+  "versionCode": 25,
+  "versionName": "1.36",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.36/flux-1.36.apk",
+  "sha256": "85c0796995775f5e472e0e0b45d43b998813ef050b1bb6279a755b46a471512a",
+  "changelog": "• Fixed a crash on large IPTV playlists (thousands of channels)\n• Favorites for IPTV channels: own group, zapping through favorites, hold OK to add — including while watching\n• Full-screen channel list and TV guide inside the player\n• Ratings on posters everywhere, plus fixes for focus and the search field",
   "minSupported": 1
 }
