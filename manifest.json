@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.37",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.37/flux-1.37.apk",
-  "sha256": "9119af685944197fe7b6a2464d9271cc0eb7b37a2552d55e1047b1f058b5968a",
-  "changelog": "• Episode calendar: a day-by-day feed of upcoming episodes for the shows you follow, opened from My List\n• «New episode» badge on the poster and a smarter order for the Continue row\n• Continue no longer fills up with shows you watched years ago — real watch dates now come from Trakt\n• Ratings and genre on posters in Collections, Studios and Search",
+  "versionCode": 27,
+  "versionName": "1.38",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.38/flux-1.38.apk",
+  "sha256": "816804423e83fd1383e11d72988084c5498242ecee56e2b4702c24e1d7d970cc",
+  "changelog": "• IPTV archive: watch programmes that already aired — from the channel menu or right from the guide while watching\n• Recording starts at the beginning of the programme and continues into the next one on its own\n• Posters now switch to a working mirror by themselves when the direct source is unreachable\n• The app finally shows up in the launcher on plain-Android TV boxes",
   "minSupported": 1
 }
