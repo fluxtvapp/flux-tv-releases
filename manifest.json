@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.38",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.38/flux-1.38.apk",
-  "sha256": "816804423e83fd1383e11d72988084c5498242ecee56e2b4702c24e1d7d970cc",
-  "changelog": "• IPTV archive: watch programmes that already aired — from the channel menu or right from the guide while watching\n• Recording starts at the beginning of the programme and continues into the next one on its own\n• Posters now switch to a working mirror by themselves when the direct source is unreachable\n• The app finally shows up in the launcher on plain-Android TV boxes",
+  "versionCode": 28,
+  "versionName": "1.39",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.39/flux-1.39.apk",
+  "sha256": "9fab933d2bde74a91570e7eed323fdb20640f6fe45304629145f0e8dadd3bcb5",
+  "changelog": "• Channel search is back in Live TV — search the whole playlist, whatever group a channel is in\n• Franchise films (Avatar, Dune, Venom) find their releases again — the sequel filter was rejecting every single one\n• IPTV guide loads far lighter: no re-download when nothing changed, no memory storms on huge playlists\n• Archive is only offered where there is something to play, and it tries alternative addresses before giving up\n• Playback no longer hangs on «Loading» forever — you get an error with Retry instead",
   "minSupported": 1
 }
