@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "1.39",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.39/flux-1.39.apk",
-  "sha256": "9fab933d2bde74a91570e7eed323fdb20640f6fe45304629145f0e8dadd3bcb5",
-  "changelog": "• Channel search is back in Live TV — search the whole playlist, whatever group a channel is in\n• Franchise films (Avatar, Dune, Venom) find their releases again — the sequel filter was rejecting every single one\n• IPTV guide loads far lighter: no re-download when nothing changed, no memory storms on huge playlists\n• Archive is only offered where there is something to play, and it tries alternative addresses before giving up\n• Playback no longer hangs on «Loading» forever — you get an error with Retry instead",
+  "versionCode": 29,
+  "versionName": "1.40",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.40/flux-1.40.apk",
+  "sha256": "0a1ca731d7496892d89fb29e9344b5b27cc9815516a91bc2b34b1705d54d4e75",
+  "changelog": "• A new episode missing from your release is no longer a dead end — switch release or pick the file yourself\n• Shows named with numbers (2012) are found again — every release was being rejected\n• Movies now exit the player when they finish; series are untouched\n• Trakt no longer disconnects on its own, and tells you when a re-login is really needed",
   "minSupported": 1
 }
