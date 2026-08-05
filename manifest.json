@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.40",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.40/flux-1.40.apk",
-  "sha256": "0a1ca731d7496892d89fb29e9344b5b27cc9815516a91bc2b34b1705d54d4e75",
-  "changelog": "• A new episode missing from your release is no longer a dead end — switch release or pick the file yourself\n• Shows named with numbers (2012) are found again — every release was being rejected\n• Movies now exit the player when they finish; series are untouched\n• Trakt no longer disconnects on its own, and tells you when a re-login is really needed",
+  "versionCode": 30,
+  "versionName": "1.41",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.41/flux-1.41.apk",
+  "sha256": "9a858763241c84dbaed119b057740ec283232a1c276552a1fcb49875ea3f7899",
+  "changelog": "Rebuilt home screen: your rows on top, new chart and release rows below. Movies and Series tabs reworked with their own rows.",
   "minSupported": 1
 }
