@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.41",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.41/flux-1.41.apk",
-  "sha256": "9a858763241c84dbaed119b057740ec283232a1c276552a1fcb49875ea3f7899",
-  "changelog": "Rebuilt home screen: your rows on top, new chart and release rows below. Movies and Series tabs reworked with their own rows.",
+  "versionCode": 150,
+  "versionName": "1.50",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.50/flux-1.50.apk",
+  "sha256": "4e49581a4e78d3407e87e8fcbe8c08d11904646d97c41f51858b46a94084d471",
+  "changelog": "Major update.",
   "minSupported": 1
 }
