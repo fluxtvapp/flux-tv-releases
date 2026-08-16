@@ -1,8 +1,8 @@
 {
-  "versionCode": 151,
-  "versionName": "1.51",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.51/flux-1.51.apk",
-  "sha256": "717a0734f61788df354390b4e9bdbf6d32b0b7c47b81cbd9f60ddf96f673c192",
-  "changelog": "Fuller release search: all parser servers are queried, list sorted by seeders. New: send app log to the developer. Asian titles, filters and player fixes.",
+  "versionCode": 152,
+  "versionName": "1.52",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.52/flux-1.52.apk",
+  "sha256": "3d42a02d338e9475cc5345dd4381fdf35f20c270a14906a32ec72af9c3e02e8a",
+  "changelog": "New home screen: the banner follows your focus instead of rotating by itself. Optional external TorrServe. Series status, video bitrate, My shows screen and fixes.",
   "minSupported": 1
 }
