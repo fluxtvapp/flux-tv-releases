@@ -1,8 +1,8 @@
 {
-  "versionCode": 153,
-  "versionName": "1.53",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.53/flux-1.53.apk",
-  "sha256": "1cc1bce416ffca620f185a68a4712c9377e4da523755e075406bea4d4cf1d33c",
-  "changelog": "Torrent engine now runs as a separate process, so its crash no longer kills the app. Trakt sync reworked: nothing is lost offline, deletions finally sync, watch history is no longer cut at 100 items. Catalogue works around blocking automatically. Faster cold start, external player picker, source filters and sorting in one row.",
+  "versionCode": 154,
+  "versionName": "1.54",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.54/flux-1.54.apk",
+  "sha256": "282186671c03831d1c59a314d53296a2839e03857b6885e24edc07a8affb7c1e",
+  "changelog": "Live TV rebuilt around a full TV guide: channels as rows, programmes as columns, catch-up archive, pause and rewind of live streams. Episode list right in the player, with the season picker. Switching episodes inside a pack no longer re-opens the torrent, so peers stay. A watched tick on the title page. The chosen dub is remembered again, now for movies too.",
   "minSupported": 1
 }
