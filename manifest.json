@@ -1,8 +1,8 @@
 {
-  "versionCode": 154,
-  "versionName": "1.54",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.54/flux-1.54.apk",
-  "sha256": "282186671c03831d1c59a314d53296a2839e03857b6885e24edc07a8affb7c1e",
-  "changelog": "Live TV rebuilt around a full TV guide: channels as rows, programmes as columns, catch-up archive, pause and rewind of live streams. Episode list right in the player, with the season picker. Switching episodes inside a pack no longer re-opens the torrent, so peers stay. A watched tick on the title page. The chosen dub is remembered again, now for movies too.",
+  "versionCode": 155,
+  "versionName": "1.55",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.55/flux-1.55.apk",
+  "sha256": "b0c76bd1c1a602581e2132245a8e4aad157eeb4545ef0da7d6807555ccc1793c",
+  "changelog": "A fix release. The screensaver no longer covers playback, and a forgotten pause lets the TV sleep again. Live TV is faster and steadier: the guide no longer blinks while it loads, the channel panel opens at once, channels are zapped with the arrows and CH buttons, and volume levelling works there too. Leaving the app now takes a second Back or a long press. Smoother motion on TVs that ship with animations switched off, plus new switches for the torrent engine.",
   "minSupported": 1
 }
