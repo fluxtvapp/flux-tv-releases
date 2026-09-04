@@ -1,8 +1,8 @@
 {
-  "versionCode": 157,
-  "versionName": "1.57",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.57/flux-1.57.apk",
-  "sha256": "d47e62d8dd9404665e93eacd6b0481dbbbb7297a4817ad83f1e6baca6c7951a6",
-  "changelog": "Settings backup: your setup returns after a reinstall, or moves to another device with a code. Steadier playback start on cold torrents, with honest seed and peer counts. Pick the section Flux opens on, boost quiet audio, clear the TV guide cache.",
+  "versionCode": 158,
+  "versionName": "1.58",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.58/flux-1.58.apk",
+  "sha256": "becb4d0a4f8d4fb543b4b5b5e2ec9874e81aa8a341d238ec4d016397fde65215",
+  "changelog": "Playback now starts on one press: Flux picks a release and opens the player right away, and quality or audio can be swapped while you watch.",
   "minSupported": 1
 }
