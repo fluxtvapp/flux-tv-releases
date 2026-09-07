@@ -1,8 +1,8 @@
 {
-  "versionCode": 158,
-  "versionName": "1.58",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.58/flux-1.58.apk",
-  "sha256": "becb4d0a4f8d4fb543b4b5b5e2ec9874e81aa8a341d238ec4d016397fde65215",
-  "changelog": "Playback now starts on one press: Flux picks a release and opens the player right away, and quality or audio can be swapped while you watch.",
+  "versionCode": 159,
+  "versionName": "1.59",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.59/flux-1.59.apk",
+  "sha256": "6312dd3220151ea46191fa5798e13952a5eebc44d766a14d03c1b8897158bba1",
+  "changelog": "Flux now takes your device into account: auto-pick skips streams your TV cannot decode or your connection cannot deliver, old releases play in the built-in player, and the screen can follow the movie's frame rate.",
   "minSupported": 1
 }
