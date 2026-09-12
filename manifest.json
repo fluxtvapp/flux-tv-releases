@@ -1,8 +1,8 @@
 {
-  "versionCode": 159,
-  "versionName": "1.59",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.59/flux-1.59.apk",
-  "sha256": "6312dd3220151ea46191fa5798e13952a5eebc44d766a14d03c1b8897158bba1",
-  "changelog": "Flux now takes your device into account: auto-pick skips streams your TV cannot decode or your connection cannot deliver, old releases play in the built-in player, and the screen can follow the movie's frame rate.",
+  "versionCode": 160,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.60/flux-1.60.apk",
+  "sha256": "45f632dae43c275e9b440a59eb079a060e010e66fdf626b4d31488b602f29367",
+  "changelog": "The interface now moves: focus glides between cards instead of jumping, cards answer your press, and rows no longer twitch under your hand. Posters and collections got a new look, and source search no longer misses late seasons of a show.",
   "minSupported": 1
 }
