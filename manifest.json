@@ -1,8 +1,8 @@
 {
-  "versionCode": 160,
-  "versionName": "1.60",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.60/flux-1.60.apk",
-  "sha256": "45f632dae43c275e9b440a59eb079a060e010e66fdf626b4d31488b602f29367",
-  "changelog": "The interface now moves: focus glides between cards instead of jumping, cards answer your press, and rows no longer twitch under your hand. Posters and collections got a new look, and source search no longer misses late seasons of a show.",
+  "versionCode": 161,
+  "versionName": "1.61",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.61/flux-1.61.apk",
+  "sha256": "6c61a16e31a3a0f813102f0027145613753ce5badaab240ab9cc8e0ab592854e",
+  "changelog": "Ratings now come from IMDb. The built-in torrent engine starts in seconds again, no longer dies mid-playback and uses far less memory.",
   "minSupported": 1
 }
