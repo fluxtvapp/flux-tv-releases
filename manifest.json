@@ -1,8 +1,8 @@
 {
-  "versionCode": 161,
-  "versionName": "1.61",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.61/flux-1.61.apk",
-  "sha256": "6c61a16e31a3a0f813102f0027145613753ce5badaab240ab9cc8e0ab592854e",
-  "changelog": "Ratings now come from IMDb. The built-in torrent engine starts in seconds again, no longer dies mid-playback and uses far less memory.",
+  "versionCode": 162,
+  "versionName": "1.62",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.62/flux-1.62.apk",
+  "sha256": "19c7ae2322592567c9f15984bf6b1e2b045c20ab8a74f29d9424dcdfba45a6bc",
+  "changelog": "General optimization of app stability.",
   "minSupported": 1
 }
