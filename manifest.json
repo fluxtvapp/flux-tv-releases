@@ -1,8 +1,8 @@
 {
-  "versionCode": 162,
-  "versionName": "1.62",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.62/flux-1.62.apk",
-  "sha256": "19c7ae2322592567c9f15984bf6b1e2b045c20ab8a74f29d9424dcdfba45a6bc",
-  "changelog": "General optimization of app stability.",
+  "versionCode": 163,
+  "versionName": "1.63",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.63/flux-1.63.apk",
+  "sha256": "67befc922d08c20f433721e5aff557fe6b004336487afebd671ad5da40914285",
+  "changelog": "Remembered source filters, search history, your own proxy for the catalog (Beta), interface language fixes.",
   "minSupported": 1
 }
