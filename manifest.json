@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "1.64",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.64/flux-1.64.apk",
-  "sha256": "fb3a65618fd152b09d356f1d9c67f1bc688d45d722b8f8f4e9949f6b362084e4",
-  "changelog": "Your own Trakt lists in My List and on Home, adding to lists from the TV, faster torrent start, Top-10 rows, dynamic range filter.",
+  "versionCode": 165,
+  "versionName": "1.65",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.65/flux-1.65.apk",
+  "sha256": "4591125118b708edbb355a2f7fda03ec1c4b70e532f3e04b08e901586493ed53",
+  "changelog": "Faster playback start: the engine warms up early and auto-pick tries two releases at once. Dimmed pause screen. Telegram group QR in About.",
   "minSupported": 1
 }
