@@ -1,8 +1,8 @@
 {
-  "versionCode": 165,
-  "versionName": "1.65",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.65/flux-1.65.apk",
-  "sha256": "4591125118b708edbb355a2f7fda03ec1c4b70e532f3e04b08e901586493ed53",
-  "changelog": "Faster playback start: the engine warms up early and auto-pick tries two releases at once. Dimmed pause screen. Telegram group QR in About.",
+  "versionCode": 166,
+  "versionName": "1.66",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.66/flux-1.66.apk",
+  "sha256": "39e49866515366eaac0e23c3865c7f1bee6b019b7e6962514c940dc367018263",
+  "changelog": "Enter parser server and playlist addresses from your phone via QR. “Flux chooses” now works with an external player. Resume from another device (Trakt) starts where you left off. Audio track follows the interface language.",
   "minSupported": 1
 }
