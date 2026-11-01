@@ -1,8 +1,8 @@
 {
-  "versionCode": 166,
-  "versionName": "1.66",
-  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.66/flux-1.66.apk",
-  "sha256": "39e49866515366eaac0e23c3865c7f1bee6b019b7e6962514c940dc367018263",
-  "changelog": "Enter parser server and playlist addresses from your phone via QR. “Flux chooses” now works with an external player. Resume from another device (Trakt) starts where you left off. Audio track follows the interface language.",
+  "versionCode": 167,
+  "versionName": "1.67",
+  "apkUrl": "https://github.com/fluxtvapp/flux-tv-releases/releases/download/1.67/flux-1.67.apk",
+  "sha256": "8175b8781aa4fa777d55ca82a730f16277d9c60d2337898748239c7448f09e51",
+  "changelog": "Recommended community parser servers: connect in one tap on first launch or in Settings. Trakt: “Remove from row” now drops a show on all your devices; more reliable sync between TVs. Posters load again. More accurate release audio language. Larger description text.",
   "minSupported": 1
 }
